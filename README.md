@@ -1,47 +1,79 @@
-Rock Paper Scissors Game
+🪨📄✂️ Rock Paper Scissors Game (Python)
 
-A simple command-line Rock Paper Scissors game written in Python.
-The player competes against the computer until they choose to quit.
+A simple Rock Paper Scissors command-line game built using Python.
+Play against the computer and test your luck! 🎮
 
-Features
+🚀 Features
 
-Easy to play
+🎯 Simple and interactive gameplay
 
-Random computer choices
+💻 Command-line interface
 
-Option to play multiple rounds
+🧠 Random computer choices
 
-Beginner-friendly Python code
+🔁 Option to replay multiple rounds
 
-How to Play
+👌 Beginner-friendly Python project
 
-Run the program.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Enter your choice: rock, paper, or scissors.
+🧩 How It Works
 
-The computer will randomly select one option.
+The player chooses either rock, paper, or scissors.
 
-The winner is decided based on standard game rules:
+The computer randomly selects one of the three options.
 
-Rock beats Scissors
+The program compares both choices and decides the winner:
 
-Paper beats Rock
+🪨 Rock beats Scissors
 
-Scissors beats Paper
+📄 Paper beats Rock
 
-Choose whether to play again or exit.
+✂️ Scissors beats Paper
 
-Requirements
+If both choices are the same — it’s a tie!
 
-Python 3.x
+You can choose to play again or exit the game.
 
-Run the Game
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🛠️ Requirements
+
+Python 3.x installed on your system
+
+To check your version:
+
+python --version
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+▶️ How to Run
+
+Clone or download this repository.
+
+Open a terminal or command prompt in the project directory.
+
+Run the following command:
+
 python rock_paper_scissors.py
 
-Example
+Follow the on-screen instructions to play.
+
+💡 Example Gameplay
 Enter a choice (rock,paper,scissors): rock
 player: rock
 computer: paper
 You lose
+Play again? (y/n): y
+
+Enter a choice (rock,paper,scissors): scissors
+player: scissors
+computer: paper
+You win
 Play again? (y/n): n
 Thanks for playing!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👨‍💻 Author : Meet Dangar  
+DevOps & Cloud Enthusiast 
